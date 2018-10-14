@@ -1,0 +1,11 @@
+Setup Instructions
+=======================================
+
+To run the application, you will to follow the steps below:
+
+Note: All of these steps are covered in the video series
+
+1. Install Ecplipse
+2. Install Tomcat 8.5 (virtual Server) 
+3. Download Project from GitHub 
+
